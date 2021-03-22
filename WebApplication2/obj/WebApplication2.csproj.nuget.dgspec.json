@@ -62,9 +62,33 @@
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
+            "Microsoft.TestPlatform.Portable": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
+            },
+            "Xwellbehaved.Core": {
+              "target": "Package",
+              "version": "[2.5.3.1171, )"
+            },
+            "more.xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
             }
           },
           "imports": [
