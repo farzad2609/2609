@@ -107,8 +107,8 @@ a {
     position: fixed;
     top: 0;
    right : 0;
-    width: 100px;
-    height: 100vh;
+    width: auto ;
+    height: 150px;
     background-color: var(--first-color);
     padding: 1.25rem .5rem 2rem;
     -webkit-transition: .5s;
@@ -118,6 +118,7 @@ a {
 
 .nav {
     height: 100%;
+    width:auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
