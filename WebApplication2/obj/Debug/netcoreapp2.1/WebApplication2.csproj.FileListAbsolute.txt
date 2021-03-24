@@ -114,3 +114,6 @@ D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Ra
 D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\ScaffoldingUser\Details.cshtml.g.cs
 D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\ScaffoldingUser\Edit.cshtml.g.cs
 D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\ScaffoldingUser\Index.cshtml.g.cs
+D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserDetail\UserDetail.cshtml.g.cs
+D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.cshtml.g.cs
+D:\amozesh\asp\projhe\eefa-seram\2609\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
